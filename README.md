@@ -12,8 +12,3 @@ This is an entity relationship diagram that defines the data table relationships
 Go to [https://github.com/karina6188/Lab12_Async_ERD] to see the ERD.
 
 $ git clone [https://github.com/karina6188/Lab12_Async_ERD.git]
-
-## Visuals
-
-App Execution
-![Alt whiteboarding capture](/Async_ERD.JPG)
